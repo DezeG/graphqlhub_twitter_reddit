@@ -7,7 +7,7 @@ It requires to have Twitter API keys.
 # How to install
 
     1. Clone project
-       git clone https://github.com/clayallsopp/graphqlhub.git
+       git clone https://github.com/DezeG/graphqlhub_twitter_reddit.git
     2. Go to the project folder
        cd graphqlhub_twitter_reddit
     3. Install packeges 
